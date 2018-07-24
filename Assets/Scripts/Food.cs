@@ -6,7 +6,7 @@ public class Food : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		//初始化数据
+		
 	}
 	
 	// Update is called once per frame
